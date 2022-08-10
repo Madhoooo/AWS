@@ -1,0 +1,7 @@
+sudo amazon-linux-extras install epel -y 
+Use Case: Check CPU Utilization
+sudo yum install stress -y
+Use Case: Installing Stress in Cloud
+Stress –cpu 1 –timeout 300 & 
+Use Case: Starting the Stress Command
+top
